@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\services\\paymentgatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentgatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\dto\\paymentgatewayrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\paymentgatewayrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\services\\ipaymentgatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\ipaymentgatewayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\appapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\appapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\paymentgatewayapi\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentGatewayRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\DTO\\PaymentGatewayRequestDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\PaymentGatewayRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\DTO\\PaymentGatewayRequestDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\PaymentGatewayRequestDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T21:52:08.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentGatewayService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\PaymentGatewayService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PaymentGatewayService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\PaymentGatewayService.cs",
+              "RelativeToolTip": "BLL\\Services\\PaymentGatewayService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:26:39.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPaymentGatewayService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\IPaymentGatewayService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\IPaymentGatewayService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\IPaymentGatewayService.cs",
+              "RelativeToolTip": "BLL\\Services\\IPaymentGatewayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:23:09.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T07:09:49.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\DTO\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\PaymentRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\DTO\\PaymentRequestDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\PaymentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T06:41:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T06:40:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T06:05:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\PaymentService.cs",
+              "RelativeToolTip": "BLL\\Services\\PaymentService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:12:34.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "BLL\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T16:10:18.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-07T13:51:42.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:51:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\AppAPI.csproj",
+              "RelativeDocumentMoniker": "AppAPI\\AppAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\AppAPI\\AppAPI.csproj",
+              "RelativeToolTip": "AppAPI\\AppAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T13:41:20.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:41:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PaymentGatewayAPI\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:41:01.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
